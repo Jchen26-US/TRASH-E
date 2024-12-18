@@ -1,0 +1,152 @@
+000000_jpg.rf.6e44e53011fb167241bf4155fb7c36c2.jpg,
+number of objects: 1,
+Predictions: [{'x': 312.5, 'y': 367.0, 'width': 57.0, 'height': 22.0, 'confidence': 0.8287070989608765, 'class': 'Plastic film', 'class_id': 23, 'detection_id': 'a1cfdea8-ee04-4423-8015-a6c6965bd6b7'}],
+
+000002_JPG.rf.219b30762e77260ca143a6dc27e9ffa7.jpg,
+number of objects: 2,
+Predictions: [{'x': 381.5, 'y': 341.5, 'width': 219.0, 'height': 139.0, 'confidence': 0.9428658485412598, 'class': 'Other Carton', 'class_id': 14, 'detection_id': '793c9725-89e6-4977-9249-996e8b217035'}, {'x': 187.5, 'y': 203.5, 'width': 95.0, 'height': 101.0, 'confidence': 0.9189234972000122, 'class': 'Bottle cap', 'class_id': 1, 'detection_id': '9573b232-fe5c-45ef-81b3-e421a25c5b32'}],
+
+000002_jpg.rf.9cc898800c81a96a92149265d91b2c4e.jpg,
+number of objects: 2,
+Predictions: [{'x': 315.5, 'y': 361.5, 'width': 93.0, 'height': 43.0, 'confidence': 0.7098405361175537, 'class': 'Cup', 'class_id': 6, 'detection_id': '0d5a7a13-9b79-47e7-a77b-31cd9ed51705'}, {'x': 315.5, 'y': 361.5, 'width': 93.0, 'height': 45.0, 'confidence': 0.6868433356285095, 'class': 'Unlabeled litter', 'class_id': 28, 'detection_id': 'e64f31cb-67f1-456d-846a-18669cf1d9ea'}],
+
+000003_JPG.rf.0c7a8e2577a394b6679c60df9a93868d.jpg,
+number of objects: 0,
+Predictions: [],
+
+000003_jpg.rf.792c79caddce68d1323aeee78d2565d0.jpg,
+number of objects: 1,
+Predictions: [{'x': 345.5, 'y': 378.5, 'width': 95.0, 'height': 73.0, 'confidence': 0.9484087228775024, 'class': 'Drink can', 'class_id': 7, 'detection_id': 'e9d4855a-17db-4d71-89e4-1d3e16a419cf'}],
+
+000003_jpg.rf.b8ad9db5f288fc2063a6136d6ca6edb6.jpg,
+number of objects: 1,
+Predictions: [{'x': 381.5, 'y': 368.5, 'width': 63.0, 'height': 67.0, 'confidence': 0.4225943386554718, 'class': 'Clear plastic bottle', 'class_id': 4, 'detection_id': '39fbe0a7-e191-4d98-a35e-f202398f34b4'}],
+
+000004_JPG.rf.b6afc2f72856a4e2a45a88511447e040.jpg,
+number of objects: 0,
+Predictions: [],
+
+000004_jpg.rf.ccfbafcd4c582b780e8de7cbe3e040d2.jpg,
+number of objects: 1,
+Predictions: [{'x': 421.5, 'y': 391.5, 'width': 169.0, 'height': 43.0, 'confidence': 0.632608950138092, 'class': 'Plastic film', 'class_id': 23, 'detection_id': 'eb81a982-ec65-4774-b190-44be9c0d3ffc'}],
+
+000005_JPG.rf.ecbb13b67517b40ace705fa99a8d447b.jpg,
+number of objects: 6,
+Predictions: [{'x': 289.5, 'y': 348.0, 'width': 87.0, 'height': 42.0, 'confidence': 0.9006859064102173, 'class': 'Other plastic', 'class_id': 19, 'detection_id': '7a9e1a01-ba60-4185-a4b7-e93fb682b682'}, {'x': 484.0, 'y': 601.0, 'width': 20.0, 'height': 14.0, 'confidence': 0.818345308303833, 'class': 'Other container', 'class_id': 16, 'detection_id': '2aa269bb-8352-40fa-bea9-2fc90043140c'}, {'x': 237.5, 'y': 613.5, 'width': 55.0, 'height': 51.0, 'confidence': 0.7553200721740723, 'class': 'Lid', 'class_id': 13, 'detection_id': '4df5c034-8210-42d3-a5d9-b3d574ddbc5a'}, {'x': 237.5, 'y': 614.0, 'width': 55.0, 'height': 52.0, 'confidence': 0.6995370388031006, 'class': 'Cup', 'class_id': 6, 'detection_id': 'fc6614ab-bf16-4da9-8b52-dfc1ed0e63d2'}, {'x': 238.0, 'y': 614.5, 'width': 52.0, 'height': 51.0, 'confidence': 0.597535252571106, 'class': 'Drink can', 'class_id': 7, 'detection_id': '93ea4aba-9bd4-4612-a81b-76b3d24f6c6b'}, {'x': 484.5, 'y': 600.5, 'width': 19.0, 'height': 15.0, 'confidence': 0.5915994644165039, 'class': 'Straw', 'class_id': 26, 'detection_id': '6f71f281-9bbc-428a-9f93-04fb01c14cf3'}],
+
+000006_jpg.rf.5d86cda8d0854b8454cf83700c8dedac.jpg,
+number of objects: 0,
+Predictions: [],
+
+000006_jpg.rf.f7720cc367ba2f48e943f5a064efdb89.jpg,
+number of objects: 3,
+Predictions: [{'x': 511.0, 'y': 381.5, 'width': 214.0, 'height': 101.0, 'confidence': 0.8864476084709167, 'class': 'Other Carton', 'class_id': 14, 'detection_id': '0779a747-01b0-4aaf-b039-057df5b61755'}, {'x': 339.0, 'y': 356.5, 'width': 222.0, 'height': 143.0, 'confidence': 0.8863493204116821, 'class': 'Other Carton', 'class_id': 14, 'detection_id': '707c20f4-b362-4086-a503-7279507349f7'}, {'x': 79.0, 'y': 199.0, 'width': 158.0, 'height': 232.0, 'confidence': 0.4447627663612366, 'class': 'Other Carton', 'class_id': 14, 'detection_id': '93b446ce-b13c-4d1a-b817-c67014146498'}],
+
+000007_JPG.rf.24e98d7ff14ac30ff42e6368223415ba.jpg,
+number of objects: 3,
+Predictions: [{'x': 340.0, 'y': 353.5, 'width': 50.0, 'height': 53.0, 'confidence': 0.9368165135383606, 'class': 'Drink can', 'class_id': 7, 'detection_id': '88cd724d-cfcf-41cd-91e7-3ec1752f1617'}, {'x': 370.0, 'y': 314.5, 'width': 16.0, 'height': 5.0, 'confidence': 0.7575675845146179, 'class': 'Cigarette', 'class_id': 3, 'detection_id': '7d1230a5-2409-4e69-8437-406e202941dd'}, {'x': 229.0, 'y': 331.0, 'width': 14.0, 'height': 12.0, 'confidence': 0.6762586832046509, 'class': 'Cigarette', 'class_id': 3, 'detection_id': 'd0157225-b51a-476b-b5ca-054c2d4b1d01'}],
+
+000007_JPG.rf.c6377f6c7ce8382071915d0daac49afb.jpg,
+number of objects: 1,
+Predictions: [{'x': 424.5, 'y': 451.5, 'width': 25.0, 'height': 7.0, 'confidence': 0.5885660648345947, 'class': 'Other plastic bottle', 'class_id': 17, 'detection_id': '292e2bf8-7fa2-4daf-af46-1ecbcb6d6b1a'}],
+
+000008_JPG.rf.9697ebd659386b8662e56ac099aa156b.jpg,
+number of objects: 4,
+Predictions: [{'x': 442.5, 'y': 587.0, 'width': 115.0, 'height': 104.0, 'confidence': 0.7430747151374817, 'class': 'Drink can', 'class_id': 7, 'detection_id': '1b0206a6-a0b1-4855-b9ce-1bf86004beca'}, {'x': 442.0, 'y': 587.0, 'width': 116.0, 'height': 106.0, 'confidence': 0.7273653745651245, 'class': 'Clear plastic bottle', 'class_id': 4, 'detection_id': '4ba40b97-8f66-45e0-955d-b3661c9faada'}, {'x': 441.5, 'y': 587.0, 'width': 111.0, 'height': 106.0, 'confidence': 0.723562479019165, 'class': 'Paper bag', 'class_id': 20, 'detection_id': 'dabff77c-1b6c-458b-98dc-61ba60cba1d7'}, {'x': 443.0, 'y': 587.0, 'width': 110.0, 'height': 106.0, 'confidence': 0.6439236402511597, 'class': 'Food container', 'class_id': 9, 'detection_id': '625764ac-886b-4fa7-906d-ec7e277fe0d2'}],
+
+000008_jpg.rf.e433fdbf178e2378e712eb433fe66cbf.jpg,
+number of objects: 0,
+Predictions: [],
+
+000009_jpg.rf.8dbb1bd234f44a6b91031402016768fa.jpg,
+number of objects: 1,
+Predictions: [{'x': 372.0, 'y': 296.5, 'width': 20.0, 'height': 39.0, 'confidence': 0.8690916895866394, 'class': 'Plastic film', 'class_id': 23, 'detection_id': 'cdcd9070-b9c5-4d17-b173-936d9ae948ef'}],
+
+000009_jpg.rf.a94b36795daefd71822b827f5bc0a9cc.jpg,
+number of objects: 2,
+Predictions: [{'x': 441.5, 'y': 159.5, 'width': 43.0, 'height': 51.0, 'confidence': 0.8323919177055359, 'class': 'Food Carton', 'class_id': 8, 'detection_id': '3b87f43b-23ff-44a9-aca4-cdf90b8ab2d0'}, {'x': 467.5, 'y': 624.5, 'width': 11.0, 'height': 29.0, 'confidence': 0.4246555268764496, 'class': 'Straw', 'class_id': 26, 'detection_id': '39abd856-c790-4068-a59d-c84b2027d726'}],
+
+000010_jpg.rf.a2ebb2c5251ad8d792768ecdeb3b0d43.jpg,
+number of objects: 0,
+Predictions: [],
+
+000013_jpg.rf.2e23b83466bb5075f537a4e994967a8e.jpg,
+number of objects: 1,
+Predictions: [{'x': 146.5, 'y': 328.5, 'width': 233.0, 'height': 347.0, 'confidence': 0.8894562125205994, 'class': 'Clear plastic bottle', 'class_id': 4, 'detection_id': 'ef8f0d1c-7dfe-47a4-8d8c-23e1c34a4036'}],
+
+000014_jpg.rf.d1833bf76009525f49fb73bb424a9772.jpg,
+number of objects: 5,
+Predictions: [{'x': 397.0, 'y': 367.5, 'width': 162.0, 'height': 93.0, 'confidence': 0.8259535431861877, 'class': 'Cup', 'class_id': 6, 'detection_id': 'c9d12e7f-eb91-45b5-8046-1c93898b53a2'}, {'x': 204.0, 'y': 617.0, 'width': 76.0, 'height': 44.0, 'confidence': 0.8209143280982971, 'class': 'Cup', 'class_id': 6, 'detection_id': '42ffb093-24ba-42c7-af4a-c20da70dffdf'}, {'x': 613.5, 'y': 585.0, 'width': 49.0, 'height': 30.0, 'confidence': 0.7656587362289429, 'class': 'Cup', 'class_id': 6, 'detection_id': 'a684e94f-fd14-419e-9535-41b4e3933879'}, {'x': 398.0, 'y': 367.0, 'width': 156.0, 'height': 92.0, 'confidence': 0.6199886798858643, 'class': 'Plastic film', 'class_id': 23, 'detection_id': '81d7119b-c564-41b1-9ad3-8c6d08cf2f7b'}, {'x': 451.0, 'y': 550.5, 'width': 84.0, 'height': 53.0, 'confidence': 0.543161153793335, 'class': 'Paper', 'class_id': 21, 'detection_id': '67a442fd-98be-47ea-a10d-b3e093041bb7'}],
+
+000016_jpg.rf.4c1acd1340c2bccf65b4b453a94f7664.jpg,
+number of objects: 3,
+Predictions: [{'x': 387.5, 'y': 307.5, 'width': 67.0, 'height': 27.0, 'confidence': 0.8426257371902466, 'class': 'Clear plastic bottle', 'class_id': 4, 'detection_id': 'd441ff99-a0c0-4fad-a81c-2a7e93643aea'}, {'x': 387.0, 'y': 308.0, 'width': 68.0, 'height': 28.0, 'confidence': 0.8194741010665894, 'class': 'Drink can', 'class_id': 7, 'detection_id': '7ed9e7ee-8453-49f1-b979-eab458dc271a'}, {'x': 422.5, 'y': 284.0, 'width': 17.0, 'height': 10.0, 'confidence': 0.6962319612503052, 'class': 'Cigarette', 'class_id': 3, 'detection_id': 'aa5e3316-cb23-4cf4-85a8-82ae531f0c5b'}],
+
+000016_JPG.rf.bc7b4df64a2ef9bf855ba10b268172fc.jpg,
+number of objects: 1,
+Predictions: [{'x': 140.0, 'y': 176.0, 'width': 88.0, 'height': 22.0, 'confidence': 0.9136143922805786, 'class': 'Drink can', 'class_id': 7, 'detection_id': 'ac6778e2-2ba8-4dc5-8583-f92993d9c91a'}],
+
+000016_JPG.rf.da64084dc945276c4780e57cce2a9075.jpg,
+number of objects: 1,
+Predictions: [{'x': 346.0, 'y': 338.0, 'width': 124.0, 'height': 96.0, 'confidence': 0.7722007632255554, 'class': 'Crisp packet', 'class_id': 5, 'detection_id': '8c7628e1-a564-4aa1-9b7e-61b87637fcf2'}],
+
+000017_jpg.rf.05cff7e748de9b8b9f60867aff794b00.jpg,
+number of objects: 1,
+Predictions: [{'x': 365.5, 'y': 13.0, 'width': 23.0, 'height': 12.0, 'confidence': 0.7348854541778564, 'class': 'Cigarette', 'class_id': 3, 'detection_id': '3ae306cd-fe31-4a99-b791-648ede9fa4f7'}],
+
+000019_jpg.rf.0cbf664625747303a2e1cfc7ef87a970.jpg,
+number of objects: 2,
+Predictions: [{'x': 243.0, 'y': 316.5, 'width': 98.0, 'height': 163.0, 'confidence': 0.7574623823165894, 'class': 'Other plastic', 'class_id': 19, 'detection_id': '3abdb5b0-eed6-433a-89ab-8fe8faa0765e'}, {'x': 135.0, 'y': 510.0, 'width': 148.0, 'height': 246.0, 'confidence': 0.5504114627838135, 'class': 'Clear plastic bottle', 'class_id': 4, 'detection_id': '540fd209-8041-4c4e-a177-cb5bb13959e7'}],
+
+000019_jpg.rf.36ebb1441da698ec8c5da3acbf8b5e1c.jpg,
+number of objects: 1,
+Predictions: [{'x': 311.5, 'y': 304.5, 'width': 47.0, 'height': 41.0, 'confidence': 0.8793566823005676, 'class': 'Bottle cap', 'class_id': 1, 'detection_id': '20c6213f-6a12-4dbb-a8dc-d8ecf064839d'}],
+
+000021_jpg.rf.acc5b8e82a7293e95ee756403073ab0d.jpg,
+number of objects: 1,
+Predictions: [{'x': 315.0, 'y': 429.0, 'width': 74.0, 'height': 56.0, 'confidence': 0.4871673583984375, 'class': 'Plastic film', 'class_id': 23, 'detection_id': '966eef6e-8bd4-4d30-b718-55b9488625f8'}],
+
+000021_jpg.rf.b000873b84a7a6bb5aac2bc6b19f2594.jpg,
+number of objects: 3,
+Predictions: [{'x': 198.5, 'y': 421.0, 'width': 47.0, 'height': 28.0, 'confidence': 0.8791247010231018, 'class': 'Lid', 'class_id': 13, 'detection_id': '013afc22-8213-4501-9d51-5ff4c5436296'}, {'x': 199.0, 'y': 421.0, 'width': 48.0, 'height': 28.0, 'confidence': 0.8296942114830017, 'class': 'Cup', 'class_id': 6, 'detection_id': '23befe77-43f8-4bec-b21c-0a9218d0f825'}, {'x': 198.5, 'y': 421.0, 'width': 47.0, 'height': 28.0, 'confidence': 0.7926464676856995, 'class': 'Bottle cap', 'class_id': 1, 'detection_id': '0a8d58ed-1886-4ee6-bb74-1ee558c04d1e'}],
+
+000022_JPG.rf.2718ffa90f924207852cc905e595ef87.jpg,
+number of objects: 0,
+Predictions: [],
+
+000022_jpg.rf.b6683cb5210f2a8f8996688b7efb212f.jpg,
+number of objects: 7,
+Predictions: [{'x': 167.5, 'y': 619.0, 'width': 59.0, 'height': 34.0, 'confidence': 0.6168198585510254, 'class': 'Single-use carrier bag', 'class_id': 25, 'detection_id': '1e5c6c0f-18a9-4c0b-a70d-f3fcddd28465'}, {'x': 290.5, 'y': 320.0, 'width': 25.0, 'height': 6.0, 'confidence': 0.5922696590423584, 'class': 'Unlabeled litter', 'class_id': 28, 'detection_id': 'faea78b7-d488-4d4a-92ac-2cba6f47efe1'}, {'x': 166.0, 'y': 618.5, 'width': 60.0, 'height': 37.0, 'confidence': 0.5251510143280029, 'class': 'Clear plastic bottle', 'class_id': 4, 'detection_id': '50694a02-7076-4d7b-a05f-4b542e2878df'}, {'x': 167.5, 'y': 619.0, 'width': 61.0, 'height': 36.0, 'confidence': 0.5201373100280762, 'class': 'Plastic film', 'class_id': 23, 'detection_id': '39b83682-a670-4fda-a87c-16615f21ac8a'}, {'x': 290.0, 'y': 320.0, 'width': 26.0, 'height': 6.0, 'confidence': 0.5112003087997437, 'class': 'Straw', 'class_id': 26, 'detection_id': 'eb24a904-27cd-43f8-9fc0-df6d0c427262'}, {'x': 167.0, 'y': 619.0, 'width': 60.0, 'height': 36.0, 'confidence': 0.5012999773025513, 'class': 'Other plastic bottle', 'class_id': 17, 'detection_id': 'c6dd3588-f374-4755-a863-a2693efab3a0'}, {'x': 334.0, 'y': 208.0, 'width': 160.0, 'height': 56.0, 'confidence': 0.4284592270851135, 'class': 'Straw', 'class_id': 26, 'detection_id': '07654133-5b1e-4f4e-a753-89f0369a3a0f'}],
+
+000023_jpg.rf.6c48ab6b309ac0701fedfe9d7376d43b.jpg,
+number of objects: 0,
+Predictions: [],
+
+000023_jpg.rf.b445fabd1c84f1b89bb9aa2c7676ac87.jpg,
+number of objects: 1,
+Predictions: [{'x': 269.0, 'y': 302.5, 'width': 54.0, 'height': 47.0, 'confidence': 0.82151198387146, 'class': 'Bottle cap', 'class_id': 1, 'detection_id': '384feed2-8e9f-4bc4-877b-75d2acd9b76e'}],
+
+000024_JPG.rf.1a2e523e0c3e325009a1f2e602bb92c0.jpg,
+number of objects: 4,
+Predictions: [{'x': 154.0, 'y': 491.0, 'width': 70.0, 'height': 52.0, 'confidence': 0.881435751914978, 'class': 'Cup', 'class_id': 6, 'detection_id': '4560823c-c7ab-461a-bfd3-4db5ec1b019c'}, {'x': 425.5, 'y': 328.0, 'width': 157.0, 'height': 264.0, 'confidence': 0.7515593767166138, 'class': 'Cup', 'class_id': 6, 'detection_id': 'a907d4c0-591c-48b4-8b95-607374ca44ce'}, {'x': 337.5, 'y': 163.0, 'width': 133.0, 'height': 326.0, 'confidence': 0.5245537757873535, 'class': 'Other can', 'class_id': 15, 'detection_id': 'd1b3278a-96bd-4844-8519-cb7348879e44'}, {'x': 426.0, 'y': 319.0, 'width': 162.0, 'height': 298.0, 'confidence': 0.5223070383071899, 'class': 'Lid', 'class_id': 13, 'detection_id': '53bd33e5-373a-41ca-a739-78d989f71a83'}],
+
+000024_JPG.rf.96fa84f703d432708061ba2d179dca1e.jpg,
+number of objects: 3,
+Predictions: [{'x': 241.0, 'y': 320.0, 'width': 28.0, 'height': 36.0, 'confidence': 0.7737100124359131, 'class': 'Cup', 'class_id': 6, 'detection_id': 'af2b0510-b196-4b6f-9c59-8812b50a9cc3'}, {'x': 241.5, 'y': 320.0, 'width': 27.0, 'height': 36.0, 'confidence': 0.6554497480392456, 'class': 'Food Carton', 'class_id': 8, 'detection_id': '08953120-f582-44e6-969e-0babc270099c'}, {'x': 241.0, 'y': 319.5, 'width': 28.0, 'height': 37.0, 'confidence': 0.6493489742279053, 'class': 'Other plastic', 'class_id': 19, 'detection_id': '20bfec1d-8380-4723-af5a-f75e167fa545'}],
+
+000024_jpg.rf.d44df3500d13ecf7e63f59326d749df8.jpg,
+number of objects: 0,
+Predictions: [],
+
+000025_jpg.rf.30cc7e82c008a49ddfefcc58ff29d89d.jpg,
+number of objects: 2,
+Predictions: [{'x': 239.0, 'y': 314.0, 'width': 102.0, 'height': 62.0, 'confidence': 0.8224005103111267, 'class': 'Other plastic', 'class_id': 19, 'detection_id': 'f8a5f74b-d2bb-4b3d-b6ee-f3806f09fb5d'}, {'x': 309.5, 'y': 612.0, 'width': 55.0, 'height': 34.0, 'confidence': 0.7875987887382507, 'class': 'Plastic film', 'class_id': 23, 'detection_id': '446b9029-ac2f-4a89-b236-62f41a933eef'}],
+
+000025_JPG.rf.582d2a60188850419f50527e397bb100.jpg,
+number of objects: 1,
+Predictions: [{'x': 267.0, 'y': 160.0, 'width': 40.0, 'height': 34.0, 'confidence': 0.9252939224243164, 'class': 'Plastic film', 'class_id': 23, 'detection_id': '38099f58-d0f5-43a2-97c2-4cb544422c9c'}],
+
+000026_JPG.rf.923be41e1110b7c15c7ee62a7cc4b599.jpg,
+number of objects: 1,
+Predictions: [{'x': 286.5, 'y': 370.0, 'width': 205.0, 'height': 160.0, 'confidence': 0.9417003989219666, 'class': 'Other Carton', 'class_id': 14, 'detection_id': '0116123e-8142-4793-b81e-40bcddf48956'}],
+

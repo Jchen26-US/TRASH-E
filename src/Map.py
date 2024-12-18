@@ -33,6 +33,7 @@ app.layout = html.Div([
 def update_map(n_intervals): #write code in here #can't write gps path in parameters?
     global latitude, longitude
 
+    #Only meant for testing, new_lat and new_long should be gps inputs
     new_lat = random.uniform(-50,50)
     new_long = random.uniform(-50,50)
 
