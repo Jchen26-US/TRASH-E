@@ -19,30 +19,65 @@ void setup()
 
 }
 
-void forward(){
-digitalWrite(IN1,LOW);      
-  digitalWrite(IN2,HIGH);         // left wheel goes forward
+void stop(){
+  digitalWrite(IN1,LOW);      
+  digitalWrite(IN2,LOW);       
   digitalWrite(IN3,LOW);      
-  digitalWrite(IN4,HIGH);  
+  digitalWrite(IN4,LOW);  
 }
+void forward(int ms){
+  digitalWrite(IN1,LOW);      
+  digitalWrite(IN2,HIGH);
+  digitalWrite(IN3,LOW);      
+  digitalWrite(IN4,HIGH);
+  delay(ms);
+  stop();
+}
+void back(int ms){
+  digitalWrite(IN1,HIGH);      
+  digitalWrite(IN2,LOW);        
+  digitalWrite(IN3,HIGH);      
+  digitalWrite(IN4,LOW);
+  delay(ms);
+  stop();
+}
+void right(int ms){
+  digitalWrite(IN1,LOW);
+  digitalWrite(IN2,HIGH);
+  delay(ms);
+  stop(); 
+}
+void backright(int ms){
+  digitalWrite(IN1, HIGH);
+  digitalWrite(IN2,LOW);
+  delay(ms);
+  stop();
+}
+void left(int ms){
+  digitalWrite(IN3,LOW);
+  digitalWrite(IN4, HIGH);
+  delay(ms);
+  stop();
+}
+void backleft(int ms){
+  digitalWrite(IN3, HIGH);
+  digitalWrite(IN4, LOW);
+  delay(ms);
+  stop();
+}
+
+
+void right_angle(){
+  int FOrBms = 500 //this value will be changed based on results
+  int Turnms = 500
+  forward(ms);
+  delay(500);
+  right(ms);
+  delay(500);  
+}
+
 void loop()
 {
-         // right wheel goes forward
-  delay(500);
-  digitalWrite(IN1,LOW);      
-  digitalWrite(IN2,LOW);         //left wheel holds still
-  digitalWrite(IN3,LOW);      
-  digitalWrite(IN4,LOW);         // right wheel holds still
-  delay(500);
-  digitalWrite(IN1,HIGH);      
-  digitalWrite(IN2,LOW);        //left wheel is back up what the hell does this mean
-  digitalWrite(IN3,HIGH);      
-  digitalWrite(IN4,LOW);        // right wheel is back up
-  delay(500);
-  digitalWrite(IN1,LOW);      
-  digitalWrite(IN2,LOW);         // left wheel holds still
-  digitalWrite(IN3,LOW);      
-  digitalWrite(IN4,LOW);         // right wheel holds still
-  delay(500);
+  right_angle();
 }
 
