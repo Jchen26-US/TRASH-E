@@ -67,7 +67,7 @@ def main():
         api_key="933ini7vNHkeJxSDlwba"
     )
 
-    analyze_directory(CLIENT, "./src/valid/images", "./src/valid/Annotated")
+    analyze_directory(CLIENT, "./valid/images", "./valid/Annotated")
     
     
 

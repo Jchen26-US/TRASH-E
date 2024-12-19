@@ -1,3 +1,5 @@
+#####Testing file, kinda useless
+
 import socket
 import time
 #import picamzero
@@ -20,17 +22,17 @@ def decimal_degrees(degrees, minutes): #Converts Degrees + minutes into Degrees
     return degrees + minutes/60 
 
 #Rasp.py edits:
-#Modified capture_image to also send GPS coordinates
-
-
-gpsd = gps(mode=WATCH_ENABLE|WATCH_NEWSTYLE)
-def get_gps_data():#writes 
+#Modified capture_image tgpsd = gps(mode=WATCH_ENABLE|WATCH_NEWSTYLE)
+def get_gps_data(gpsd):#writes 
     nx = gpsd.next() #may have to replace with gpsd.read() modify as needed
     if nx['class'] == 'TFV':
         lat = getattr(nx, "lat", "Unknown")#gets latitude attribute, and returns unknown if doesnt exist
         long = getattr(nx, "lon", "Unknown")
         print(f"Current Position: latitude = {str(lat)}, longitude = {str(long)}")
-        return {"lat": lat, "long": long} #returns dictionary with latitude and longitude
+        return {"lat": lat, "long": long} #returns dictionary with latitude and longitudeo also send GPS coordinates
+
+
+
 
 
 def capture_image(image_path, gps_path):#captures img -> image_path, gps_data -> text file

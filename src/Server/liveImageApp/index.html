@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Refresh App</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .refresh-button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .refresh-button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Image Refresh App</h1>
+    <p>This app will refresh the image every 5 seconds.</p>
+    
+    <img id="image" src="images/annotated_img.jpg?t=0" alt="Dynamic Image">
+    <img id="image2" src="images/received_img.jpg?t=0" alt="Dynamic image2">
+
+
+    <br>
+    <button class="refresh-button" onclick="manualRefresh()">Refresh Now</button>
+
+    <script src="app.js"></script>
+</body>
+</html>
